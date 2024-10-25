@@ -1,0 +1,438 @@
+{
+  'help':'https://data.gov.sg/api/3/action/help_show?name=datastore_search',
+  'success':True,
+  'result':{
+    'resource_id':'d_b438fc00ee679a15980282fe1c7ca45d',
+    'fields':[
+      {
+        'type':'numeric',
+        'id':'year'
+      },
+      {
+        'type':'text',
+        'id':'school'
+      },
+      {
+        'type':'text',
+        'id':'course_name'
+      },
+      {
+        'type':'text',
+        'id':'moe_course_code'
+      },
+      {
+        'type':'text',
+        'id':'poly_course_code'
+      },
+      {
+        'type':'text',
+        'id':'course_description'
+      },
+      {
+        'type':'text',
+        'id':'reference'
+      },
+      {
+        'type':'int4',
+        'id':'_id'
+      }
+    ],
+    'records':[
+      {
+        '_id':1,
+        'year':'2022',
+        'school':'School of Applied Science',
+        'course_name':'Diploma in Pharmaceutical Science',
+        'moe_course_code':'T25',
+        'poly_course_code':'A0L',
+        'course_description':'Provides skilled manpower not only in the healthcare sector, in particular the hospital and retail pharmacies, but also pharmaceutical industry. Besides medication use, training also extends to R&D, pharmaceutical manufacturing, pharmaceutical analysis and pharmaceutical sales and marketing.',
+        'reference':'https://www.tp.edu.sg/schools/asc/pharmaceutical-science'
+      },
+      {
+        '_id':2,
+        'year':'2022',
+        'school':'School of Applied Science',
+        'course_name':'Diploma in Food, Nutrition & Culinary Science',
+        'moe_course_code':'T26',
+        'poly_course_code':'A0N',
+        'course_description':'The course trains you in the areas of food production, healthier food product development, food safety and applied nutrition. You would also pick up basic culinary, baking and product development skills.',
+        'reference':'https://www.tp.edu.sg/schools/asc/food-nutrition-and-culinary-science'
+      },
+      {
+        '_id':3,
+        'year':'2022',
+        'school':'School of Applied Science',
+        'course_name':'Diploma in Chemical Engineering',
+        'moe_course_code':'T33',
+        'poly_course_code':'A0D',
+        'course_description':'Trains skilled manpower for the needs of the Chemical, Pharmaceutical and Semiconductor Industries.\xa0 Graduates will also be equipped with fundamental and applied chemistry knowledge to work in research and testing laboratories.',
+        'reference':'https://www.tp.edu.sg/schools/asc/chemical-engineering'
+      },
+      {
+        '_id':4,
+        'year':'2022',
+        'school':'School of Applied Science',
+        'course_name':'Diploma in Veterinary Technology',
+        'moe_course_code':'T45',
+        'poly_course_code':'A0K',
+        'course_description':'Provides you with knowledge and skills in animal care, and prepares you for the biomedical, aquaculture, veterinary and pet industries.',
+        'reference':'https://www.tp.edu.sg/schools/asc/veterinary-technology'
+      },
+      {
+        '_id':5,
+        'year':'2022',
+        'school':'School of Applied Science',
+        'course_name':'Diploma in Medical Biotechnology',
+        'moe_course_code':'T64',
+        'poly_course_code':'A0M',
+        'course_description':'Provides skilled manpower not only in the biomedical sciences but also biotechnology industries, particularly in clinical services, technical support, product development and bioanalytical services.',
+        'reference':'https://www.tp.edu.sg/schools/asc/medical-biotechnology'
+      },
+      {
+        '_id':6,
+        'year':'2022',
+        'school':'School of Business',
+        'course_name':'Common Business Programme',
+        'moe_course_code':'T01',
+        'poly_course_code':'B0Q',
+        'course_description':'Designed to help you explore various business disciplines. At the end of one semester, you will make an informed decision by ranking your preferred choices of 7 business diplomas. ',
+        'reference':'https://www.tp.edu.sg/schools/bus/common-business-programme'
+      },
+      {
+        '_id':7,
+        'year':'2022',
+        'school':'School of Business',
+        'course_name':'Diploma in Accountancy & Finance',
+        'moe_course_code':'T02',
+        'poly_course_code':'B0R',
+        'course_description':'Equips you with core business competencies and professional training that position you to thrive in both the accountancy profession and the financial services industry.',
+        'reference':'https://www.tp.edu.sg/schools/bus/accountancy-and-finance'
+      },
+      {
+        '_id':8,
+        'year':'2022',
+        'school':'School of Business',
+        'course_name':'Diploma in International Trade & Logistics',
+        'moe_course_code':'T07',
+        'poly_course_code':'B0S',
+        'course_description':'With more consumers turning to e-commerce and international trade becoming more complex, the demand for logistics professionals has never been greater.\n\nYour industry readiness will be ensured through a firm foundation in business studies and specialised supply chain training to meet the demands of a technology-driven business environment and globalised world. ',
+        'reference':'https://www.tp.edu.sg/schools-and-courses/students/schools/bus/international-trade-and-logistics.html'
+      },
+      {
+        '_id':9,
+        'year':'2022',
+        'school':'School of Business',
+        'course_name':'Diploma in Hospitality & Tourism Management',
+        'moe_course_code':'T08',
+        'poly_course_code':'B0K',
+        'course_description':'This course allows you to widen your career options and be globally marketable. Unlock skills to create memorable customer experiences, trot the globe to deepen cross cultural experiences, and accelerate your job experiences in the Hospitality & Tourism (H&T) context. Stand out as a H&T superhost with the passion to meet people; agile and flexible problem solving skills to navigate tourism jobs of tomorrow.',
+        'reference':'https://www.tp.edu.sg/schools/bus/hospitality-and-tourism-management'
+      },
+      {
+        '_id':10,
+        'year':'2022',
+        'school':'School of Business',
+        'course_name':'Diploma in Law & Management',
+        'moe_course_code':'T09',
+        'poly_course_code':'B0G',
+        'course_description':'A niche course offered only at Temasek Polytechnic that prepares you to join\xa0the legal industry as allied legal professionals.',
+        'reference':'https://www.tp.edu.sg/schools/bus/law-and-management'
+      },
+      {
+        '_id':11,
+        'year':'2022',
+        'school':'School of Business',
+        'course_name':'Diploma in Business',
+        'moe_course_code':'T10',
+        'poly_course_code':'B0C',
+        'course_description':'A broad-based diploma that offers you the choice to deepen your skills in one of 4 specialisations - Banking and Finance, Digital Business Innovation, Human Resource Management with Psychology or International Business and Entrepreneurship.',
+        'reference':'https://www.tp.edu.sg/schools/bus/business'
+      },
+      {
+        '_id':12,
+        'year':'2022',
+        'school':'School of Business',
+        'course_name':'Diploma in Culinary & Catering Management',
+        'moe_course_code':'T18',
+        'poly_course_code':'B0M',
+        'course_description':'A pioneering culinary diploma in collaboration with the reputed Culinary Institute of America (CIA) that provides students with solid F&B business fundamentals before specialising in either Baking and Pastry or Culinary Arts.',
+        'reference':'https://www.tp.edu.sg/schools/bus/culinary-and-catering-management'
+      },
+      {
+        '_id':13,
+        'year':'2022',
+        'school':'School of Business',
+        'course_name':'Diploma in Communications & Media Management',
+        'moe_course_code':'T40',
+        'poly_course_code':'B0E',
+        'course_description':'Trains you in journalism and content creation for broadcast and digital media. You will learn to integrate marketing and technical skills to develop a business mindset for media operations.',
+        'reference':'https://www.tp.edu.sg/schools/bus/communications-and-media-management'
+      },
+      {
+        '_id':14,
+        'year':'2022',
+        'school':'School of Business',
+        'course_name':'Diploma in Marketing',
+        'moe_course_code':'T67',
+        'poly_course_code':'B0I',
+        'course_description':'Gives you a strong foundation in marketing and key competencies in marketing analytics and consumer insights and allows you to specialise in either Branding and Digital Marketing or E-commerce and Retail Marketing. ',
+        'reference':'https://www.tp.edu.sg/schools/bus/marketing'
+      },
+      {
+        '_id':15,
+        'year':'2022',
+        'school':'School of Design',
+        'course_name':'Diploma in Apparel Design & Merchandising',
+        'moe_course_code':'T20',
+        'poly_course_code':'D0C',
+        'course_description':'Gives a broad overview of the fashion industry and the fashion life cycle from concept creation, design and production to marketing, brand storytelling and distribution. You can specialise in either fashion design or retail merchandising. ',
+        'reference':'https://www.tp.edu.sg/schools/des/apparel-design-and-merchandising'
+      },
+      {
+        '_id':16,
+        'year':'2022',
+        'school':'School of Design',
+        'course_name':'Diploma in Interior Architecture & Design',
+        'moe_course_code':'T22',
+        'poly_course_code':'D0A',
+        'course_description':'Focuses on the creation of innovative and exciting interior spaces, primarily through the adaptation and spatial manipulation of existing buildings. It emphasises a unique combination of architecture and interior design principles to create beautiful and liveable spaces for 21st century lifestyles.',
+        'reference':'https://www.tp.edu.sg/schools/des/interior-architecture-and-design'
+      },
+      {
+        '_id':17,
+        'year':'2022',
+        'school':'School of Design',
+        'course_name':'Diploma in Digital Film & Television',
+        'moe_course_code':'T23',
+        'poly_course_code':'D0J',
+        'course_description':'An award-winning course that emphasises the creative and technical aspects of compelling story-telling through film and video while immersing students in the business end of film-making.',
+        'reference':'https://www.tp.edu.sg/schools/des/digital-film-and-television'
+      },
+      {
+        '_id':18,
+        'year':'2022',
+        'school':'School of Design',
+        'course_name':'Diploma in Product & Industrial Design',
+        'moe_course_code':'T35',
+        'poly_course_code':'D0E',
+        'course_description':'Focuses on creating impactful and meaningful solutions in product and experience design through the use of human-centred design principles with cutting edge technology in prototyping and production. ',
+        'reference':'https://www.tp.edu.sg/schools-and-courses/students/schools/des/product-experience-and-design.html'
+      },
+      {
+        '_id':19,
+        'year':'2022',
+        'school':'School of Design',
+        'course_name':'Diploma in Communication Design',
+        'moe_course_code':'T59',
+        'poly_course_code':'D0K',
+        'course_description':'An award-winning pioneer in visual communication focused on crafting delightful experiences through the integration of design, business and technology. The future is yours to design.',
+        'reference':'https://www.tp.edu.sg/schools/des/communication-design'
+      },
+      {
+        '_id':20,
+        'year':'2022',
+        'school':'School of Engineering',
+        'course_name':'Diploma in Aviation Management',
+        'moe_course_code':'T04',
+        'poly_course_code':'E1G',
+        'course_description':'Gives you specialised aviation management skills and business knowledge to manage world class airports and airlines.  You will have various internship opportunities with CAAS, CAG, SIA, Cathay Pacific and Scoot. ',
+        'reference':'https://www.tp.edu.sg/schools/eng/aviation-management'
+      },
+      {
+        '_id':21,
+        'year':'2022',
+        'school':'School of Engineering',
+        'course_name':'Diploma in Computer Engineering',
+        'moe_course_code':'T13',
+        'poly_course_code':'E0C',
+        'course_description':"Trains you in hardware, software and how to integrate them, to make you an enabler of today's technologies such as the Internet of Things, artificial intelligence, smart systems, and big data.",
+        'reference':'https://www.tp.edu.sg/schools/eng/computer-engineering'
+      },
+      {
+        '_id':22,
+        'year':'2022',
+        'school':'School of Engineering',
+        'course_name':'Diploma in Integrated Facility Management',
+        'moe_course_code':'T28',
+        'poly_course_code':'E0W',
+        'course_description':'Trains you to manage the features, amenities, aesthetics and functionality of modern facilities such as IRs, airports, business/convention centres, offices, entertainment hubs, and tourist attractions.',
+        'reference':'https://www.tp.edu.sg/schools/eng/integrated-facility-management'
+      },
+      {
+        '_id':23,
+        'year':'2022',
+        'school':'School of Engineering',
+        'course_name':'Diploma in Architectural Technology & Building Services ',
+        'moe_course_code':'T29',
+        'poly_course_code':'E1H',
+        'course_description':'An inter-disciplinary course that integrates sustainability in architectural design and technology in building systems. It also equips you with energy management core competencies  that position you to thrive in both the architectural profession and the sustainable built environment industry.',
+        'reference':'https://www.tp.edu.sg/schools/eng/architectural-technology-and-building-services'
+      },
+      {
+        '_id':24,
+        'year':'2022',
+        'school':'School of Engineering',
+        'course_name':'Diploma in Biomedical Engineering',
+        'moe_course_code':'T38',
+        'poly_course_code':'E1F',
+        'course_description':'An inter-disciplinary course that trains you in biological techniques and biomedical instrumentation and their usage in the human body, allowing you to tap into the growing MedTech and healthcare sectors. ',
+        'reference':'https://www.tp.edu.sg/schools/eng/biomedical-engineering'
+      },
+      {
+        '_id':25,
+        'year':'2022',
+        'school':'School of Engineering',
+        'course_name':'Diploma in Business Process & Systems Engineering',
+        'moe_course_code':'T43',
+        'poly_course_code':'E0K',
+        'course_description':'Infuses business concepts and management principles into a core of engineering fundamentals;  this will make you a multi-disciplinary professional with versatile career prospects and further study options.',
+        'reference':'https://www.tp.edu.sg/schools/eng/business-process-and-systems-engineering'
+      },
+      {
+        '_id':26,
+        'year':'2022',
+        'school':'School of Engineering',
+        'course_name':'Diploma in Aerospace Electronics',
+        'moe_course_code':'T50',
+        'poly_course_code':'E0U',
+        'course_description':'Focuses on avionics. TP is the first local Poly certified by CAAS as a SAR-147 Approved Maintenance Training Organisation, so your diploma is more widely recognised by aerospace-related industries.',
+        'reference':'https://www.tp.edu.sg/schools/eng/aerospace-electronics'
+      },
+      {
+        '_id':27,
+        'year':'2022',
+        'school':'School of Engineering',
+        'course_name':'Diploma in Aerospace Engineering',
+        'moe_course_code':'T51',
+        'poly_course_code':'E0T',
+        'course_description':'Focuses on aircraft design and engine systems. TP is the first local Poly certified by CAAS as a SAR-147 Approved Maintenance Training Organisation, so your diploma is more widely recognised by aerospace-related industries.',
+        'reference':'https://www.tp.edu.sg/schools/eng/aerospace-engineering'
+      },
+      {
+        '_id':28,
+        'year':'2022',
+        'school':'School of Engineering',
+        'course_name':'Common Engineering Programme',
+        'moe_course_code':'T56',
+        'poly_course_code':'E1C',
+        'course_description':'Gives you time to find out your interests before choosing 1 out of 7 courses, including our highly popular diplomas, in semester 1 or 2.  Ultimately, you will graduate with the same diploma within 3 years.',
+        'reference':'https://www.tp.edu.sg/schools/eng/common-engineering-programme'
+      },
+      {
+        '_id':29,
+        'year':'2022',
+        'school':'School of Engineering',
+        'course_name':'Diploma in Electronics',
+        'moe_course_code':'T65',
+        'poly_course_code':'E0E',
+        'course_description':"Equips you with knowledge of electronic circuits and systems to enable you  to develop and manage high-tech automated systems and advanced manufacturing processes amidst today's digital transformation. ",
+        'reference':'https://www.tp.edu.sg/schools/eng/electronics'
+      },
+      {
+        '_id':30,
+        'year':'2022',
+        'school':'School of Engineering',
+        'course_name':'Diploma in Mechatronics',
+        'moe_course_code':'T66',
+        'poly_course_code':'E0M',
+        'course_description':'Trains you to integrate mechanical engineering with electronics to come up with intelligent systems used in engineering applications such as robotics, automation, smart manufacturing and even aerospace systems.',
+        'reference':'https://www.tp.edu.sg/schools/eng/mechatronics'
+      },
+      {
+        '_id':31,
+        'year':'2022',
+        'school':'School of Humanities & Social Sciences',
+        'course_name':'Diploma in Psychology Studies',
+        'moe_course_code':'T48',
+        'poly_course_code':'G0A',
+        'course_description':'Provides a foundational knowledge of human behaviour. It also equips students to apply psychology in professional settings, such as the social services, special needs education and research sectors.',
+        'reference':'https://www.tp.edu.sg/schools/hss/psychology-studies'
+      },
+      {
+        '_id':32,
+        'year':'2022',
+        'school':'School of Humanities & Social Sciences',
+        'course_name':'Diploma in Social Sciences in Gerontology',
+        'moe_course_code':'T53',
+        'poly_course_code':'G0F',
+        'course_description':'The only diploma in Singapore that seeks to prepare students for rewarding careers in the health, community and social service sectors, to support and empower older adults of different abilities.',
+        'reference':'https://www.tp.edu.sg/schools/hss/social-sciences-in-gerontology'
+      },
+      {
+        '_id':33,
+        'year':'2022',
+        'school':'School of Humanities & Social Sciences',
+        'course_name':'Diploma in Early Childhood Development & Education',
+        'moe_course_code':'T68',
+        'poly_course_code':'G0E',
+        'course_description':'Recognised by the Early Childhood Development Agency (ECDA), this course aims to equip students with the practical skillset and necessary knowledge to pursue a career in early childhood.',
+        'reference':'https://www.tp.edu.sg/schools/hss/early-childhood-development-and-education'
+      },
+      {
+        '_id':34,
+        'year':'2022',
+        'school':'School of Informatics & IT',
+        'course_name':'Diploma in Information Technology',
+        'moe_course_code':'T30',
+        'poly_course_code':'C0B',
+        'course_description':'Gives you a solid foundation in software development, a good understanding of Agile Methodology, DevOps , Cloud Computing,  Artificial Intelligence (AI) and the skills to create applications across multiple platforms for businesses.',
+        'reference':'https://www.tp.edu.sg/schools/iit/information-technology'
+      },
+      {
+        '_id':35,
+        'year':'2022',
+        'school':'School of Informatics & IT',
+        'course_name':'Diploma in Game Design & Development',
+        'moe_course_code':'T58',
+        'poly_course_code':'C0P',
+        'course_description':'Keen to create your own exciting games with interactive content leveraging on immersive media technologies? Then this course would be right up your alley!\n\nGain a strong understanding of how to merge the virtual and physical worlds using sound game design and development principles. Create your own game from conception to design, development and deployment. Get the opportunity to learn from and work alongside experts who’ve created augmented reality, virtual reality, and video game titles for industries such as healthcare, hospitality, manufacturing, and education. Our use of industry-leading tools from Unity will also give you a unique advantage. At the same time, earn recognised and valued immersive media and game industry professional certifications while learning with us.\n\nTake your passion for game development to the next level through this exciting and engaging course in  Immersive Media & Game Development.',
+        'reference':'https://www.tp.edu.sg/schools-and-courses/students/schools/iit/immersive-media-and-game-development.html'
+      },
+      {
+        '_id':36,
+        'year':'2022',
+        'school':'School of Informatics & IT',
+        'course_name':'Diploma in Big Data & Analytics',
+        'moe_course_code':'T60',
+        'poly_course_code':'C0S',
+        'course_description':'Equips you with highly sought-after skills to manage big data and to make sense of data by using analytics. In this way you can help businesses and organisations make smarter decisions.',
+        'reference':'https://www.tp.edu.sg/schools/iit/big-data-and-analytics'
+      },
+      {
+        '_id':37,
+        'year':'2022',
+        'school':'School of Informatics & IT',
+        'course_name':'Diploma in Cybersecurity & Digital Forensics',
+        'moe_course_code':'T62',
+        'poly_course_code':'C0R',
+        'course_description':'Trains you to be a cybersecurity professional with the skills to protect organisations against cyber security threats and the ability to investigate cyber crimes.',
+        'reference':'https://www.tp.edu.sg/schools/iit/cybersecurity-and-digital-forensics'
+      },
+      {
+        '_id':38,
+        'year':'2022',
+        'school':'School of Informatics & IT',
+        'course_name':'Common ICT Programme',
+        'moe_course_code':'T63',
+        'poly_course_code':'C0T',
+        'course_description':'A 1 year programme that provides you an excellent foundation in ICT, giving you\xa0time to discover more about our diploma courses before you make your choice of what to pursue in Year 2.',
+        'reference':'https://www.tp.edu.sg/schools/iit/common-ict-programme'
+      },
+      {
+        '_id':39,
+        'year':'2022',
+        'school':'School of Informatics & IT',
+        'course_name':'Diploma in Applied Artificial Intelligence  ',
+        'moe_course_code':'T69',
+        'poly_course_code':'C0U',
+        'course_description':'Learn to develop chatbots, leverage on natural language processing technologies to translate information from one language to another, undertake object recognition projects that enable you to identify objects such as car plate numbers, and learn to use machine learning and deep learning algorithms to develop creative new solutions for businesses and industry.',
+        'reference':'https://www.tp.edu.sg/schools/iit/applied-artificial-intelligence'
+      }
+    ],
+    '_links':{
+      'start':'/api/action/datastore_search?resource_id=d_b438fc00ee679a15980282fe1c7ca45d',
+      'next':'/api/action/datastore_search?resource_id=d_b438fc00ee679a15980282fe1c7ca45d&offset=100'
+    },
+    'total':39
+  }
+}
